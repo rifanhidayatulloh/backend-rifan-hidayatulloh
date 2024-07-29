@@ -21,8 +21,8 @@ API untuk marketplace yang menghubungkan merchant dan customer, dengan fitur dis
 1. Clone repositori ini:
 
    ```bash
-   git clone https://github.com/username/marketplace-api.git
-   cd marketplace-api
+   git clone https://github.com/username/backend-rifan-hidayatulloh.git
+   cd backend-rifan-hidayatulloh
    ```
 
 2. Instal dependencies:
